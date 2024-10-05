@@ -1,4 +1,4 @@
-# Heart Disease Prediction Project
+# Heart Disease Prediction 
 This project aims to predict the likelihood of heart disease in patients using machine learning techniques. By analyzing patient data, the model can help healthcare professionals identify individuals at risk and improve patient care outcomes.
 ## Data
 The dataset used for this project contains [brief description of the dataset, e.g., "patient records with features like age, sex, cholesterol levels, etc."]. The dataset consists of [number of samples] samples and [number of features] features.
